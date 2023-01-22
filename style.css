@@ -1,0 +1,27 @@
+* {
+    font-family: 'Poppins', sans-serif;
+    position: relative;
+}
+
+.header-section {
+    height: 900px;
+}
+
+.footer-section {
+    height: 300px;
+}
+
+.app {
+    height: 50px;
+}
+
+.header-background {
+    height: 100%;
+    width: 100vw;
+    object-fit: cover;
+
+    background-repeat: no-repeat;
+    filter: brightness(0.5);
+    position: absolute;
+
+}
